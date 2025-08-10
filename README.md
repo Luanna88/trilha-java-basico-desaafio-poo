@@ -40,7 +40,7 @@ Com base no **vídeo de lançamento do iPhone em 2007**, foi criado o diagrama U
 ## 📊 Diagrama UML
 O diagrama abaixo representa as interfaces e a classe `iPhone`, que implementa todas as funcionalidades:
 
-![Diagrama UML]("C:\Users\luann\Downloads\Diagrama UML do iPhone.png")
+![Diagrama UML](Diagrama_UML_do_iPhone.png)
 
 ---
 
